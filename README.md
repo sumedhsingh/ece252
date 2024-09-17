@@ -1,2 +1,2 @@
 # ece252
-ECE 252 : Systems Programming and Concurrency 2024
+ECE 252 : Systems Programming and Concurrency 
